@@ -1,0 +1,11 @@
+portals:
+  spawnportal:
+    currency: air
+    price: 0.0
+    safe-teleport: true
+    teleport-non-players: false
+    owner: ClamyHatz
+    location: world:0.0,-60.0,6.0:0.0,-55.0,10.0
+    destination: ll:hardcore
+    check-destination-safety: true
+    version: 1.1

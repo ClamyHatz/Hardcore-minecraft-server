@@ -1,0 +1,4 @@
+/mv tp <yourname> hardcore
+
+/mvinv group waiting default
+/mvinv group hardcore hardcore

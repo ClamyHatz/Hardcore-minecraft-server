@@ -1,0 +1,14 @@
+name: SimulatedHardcore
+version: 2.0
+main: me.yourname.simhardcore.SimulatedHardcore
+api-version: 1.20
+depend: [Multiverse-Core]
+commands:
+  resets:
+    description: Shows world reset & death counters
+  resetcounters:
+    description: Resets counters for testing
+  nextworld:
+    description: Starts the next hardcore world
+  pause:
+    description: Toggles hardcore death resets

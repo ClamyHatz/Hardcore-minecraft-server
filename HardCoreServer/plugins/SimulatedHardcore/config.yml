@@ -1,0 +1,7 @@
+hardcore-world: hardcore
+waiting-world: waiting
+countdown-seconds: 30
+stats:
+  deaths: 22
+  resets: 23
+paused: false

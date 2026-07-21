@@ -1,0 +1,9 @@
+nether inventory compatability
+
+nether and end regeneration
+
+achivements reset
+
+xp resets
+
+inventory resets per world
